@@ -1,0 +1,13 @@
+#our general formula is chr((ord(txt)+ key - 97) % 26 + 97) here ord(txt) is ASCII Values
+
+
+
+#the codeunitAt(0) is to get the ascii value of a alphabets
+#String.fromCharCode(int) to get the albabet
+
+
+
+
+#this has one problem that is $ sign cannot be given or outputed
+
+
